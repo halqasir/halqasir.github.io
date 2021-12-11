@@ -1,20 +1,29 @@
 ---
-title: "Teaching experience 2"
+title: "Data storage"
 collection: teaching
-type: "Workshop"
+type: "BACHELOR CGDD"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Télécom Saint-Étienne."
+date: 2020-10-01
+location: " Saint-Étienne, France."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course objectives
+ - Provide an overview of storage technologies.
+ - Learn about the different file formats used in the professional world for storing data.
+ - Know how to define a database.
+ - Understand the implications of storing data in a database.
 
-Heading 1
+CM
 ======
+- What is data storage and what solutions do we have?
+- File formats, CSV, XML, JSON, GeoJSON, YAML.
+- Introduction to database (more details in Relational Databases course).
 
-Heading 2
-======
 
-Heading 3
+TP
 ======
+- TP1
+- TP2
+- TP3
+

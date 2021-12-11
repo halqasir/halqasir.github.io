@@ -1,20 +1,42 @@
 ---
-title: "Teaching experience 1"
+title: "Relational databases"
 collection: teaching
-type: "Undergraduate course"
+type: "BACHELOR CGDD"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Télécom Saint-Étienne."
+date: 2020-11-01
+location: "Saint-Étienne, France."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Goals of the course
+   - Understand, use, create relational databases.
 
-Heading 1
+CM
 ======
+Introduction to Database Systems
+[Download paper here](http://h.alqasir.github.io/files/b1_databases_cm1.pdf)
 
-Heading 2
-======
 
-Heading 3
+Mathematical Preliminaries, Relational Model
+[Download paper here](http://h.alqasir.github.io/files/b1_databases_cm2.pdf)
+
+
+
+Database Structuring and Querying with SQL
+[Download paper here](http://h.alqasir.github.io/files/b1_databases_cm3.pdf)
+
+
+TD
 ======
+TD1 [Download paper here](http://h.alqasir.github.io/files/b1_databases_td1.pdf)
+
+TD2 [Download paper here](http://h.alqasir.github.io/files/b1_databases_td2.pdf)
+
+
+TP
+======
+TP1 [Download paper here](http://h.alqasir.github.io/files/b1_databases_tp1.pdf)
+
+TP2 [Download paper here](http://h.alqasir.github.io/files/b1_databases_tp2.pdf)
+
+TP3 [Download paper here](http://h.alqasir.github.io/files/b1_databases_tp3.pdf)
