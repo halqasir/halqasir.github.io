@@ -8,10 +8,12 @@ date: 2020-11-09
 location: " Saint-Étienne, France."
 ---
 
+This course is designed to teach Object-Oriented programming concepts, techniques, and applications using the C++ programming language.
+
 TP
 ======
-- TP1
-- TP2
-- TP3
-- TP4
+- [TP1](http://h.alqasir.github.io/files/ipsi2_cpp_tp1.pdf)
+- [TP2](http://h.alqasir.github.io/files/ipsi2_cpp_tp2.pdf)
+- [TP3](http://h.alqasir.github.io/files/ipsi2_cpp_tp3.pdf)
+- [TP4](http://h.alqasir.github.io/files/ipsi2_cpp_tp4.pdf)
 
