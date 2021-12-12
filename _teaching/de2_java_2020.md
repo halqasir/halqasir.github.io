@@ -12,8 +12,8 @@ This course is designed to teach Object-Oriented programming concepts, technique
 
 TD
 ======
-- [Core Java - Basics](http://h.alqasir.github.io/files/de2_java_td2.pdf)
-- [Static fields and methods](http://h.alqasir.github.io/files/de2_java_td3.pdf)
-- [Inheritance](http://h.alqasir.github.io/files/de2_java_td4.pdf)
-- [Exceptions](http://h.alqasir.github.io/files/de2_java_td5.pdf)
+- [Core Java - Basics](http://halqasir.github.io/files/de2_java_td2.pdf)
+- [Static fields and methods](http://halqasir.github.io/files/de2_java_td3.pdf)
+- [Inheritance](http://halqasir.github.io/files/de2_java_td4.pdf)
+- [Exceptions](http://halqasir.github.io/files/de2_java_td5.pdf)
 

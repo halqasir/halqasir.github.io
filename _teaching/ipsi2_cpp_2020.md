@@ -12,8 +12,8 @@ This course is designed to teach Object-Oriented programming concepts, technique
 
 TP
 ======
-- [TP1](http://h.alqasir.github.io/files/ipsi2_cpp_tp1.pdf)
-- [TP2](http://h.alqasir.github.io/files/ipsi2_cpp_tp2.pdf)
-- [TP3](http://h.alqasir.github.io/files/ipsi2_cpp_tp3.pdf)
-- [TP4](http://h.alqasir.github.io/files/ipsi2_cpp_tp4.pdf)
+- [TP1](http://halqasir.github.io/files/ipsi2_cpp_tp1.pdf)
+- [TP2](http://halqasir.github.io/files/ipsi2_cpp_tp2.pdf)
+- [TP3](http://halqasir.github.io/files/ipsi2_cpp_tp3.pdf)
+- [TP4](http://halqasir.github.io/files/ipsi2_cpp_tp4.pdf)
 
