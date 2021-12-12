@@ -1,7 +1,7 @@
 ---
 title: "Mask-guided Image Classification with Siamese Networks"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/VISSAPP2020
 excerpt: ' '
 date: 2020-03-01
 venue: 'International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications.'

@@ -1,7 +1,7 @@
 ---
 title: "Region Proposal Oriented Approach for Domain Adaptive Object Detection"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/ACIVS2020
 excerpt: ' '
 date: 2020-02-10
 venue: 'International Conference on Advanced Concepts for Intelligent Vision Systems.'

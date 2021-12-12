@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Hiba ALQASIR"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "ATER, PhD"
   location         : "Saint-Etienne, France"
-  employer         :
+  employer         : "UJM"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uBVFMUEAAAAJ&hl"
   email            : "h.alqasir@univ-st-etienne.fr"
-  researchgate     :  "https://www.researchgate.net/profile/Hiba-Alqasir"
+  researchgate     : "https://www.researchgate.net/profile/Hiba-Alqasir"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hiba-alqasir/"
   orcid            : "http://orcid.org/0000-0002-3852-9706"
   pinterest        :
   soundcloud       :
