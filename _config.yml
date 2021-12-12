@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "ATER, PhD"
   location         : "Saint-Etienne, France"
-  employer         : "UJM"
+  employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uBVFMUEAAAAJ&hl"
   email            : "h.alqasir@univ-st-etienne.fr"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/hiba-alqasir/"
+  linkedin         : "hiba-alqasir"
   orcid            : "http://orcid.org/0000-0002-3852-9706"
   pinterest        :
   soundcloud       :
