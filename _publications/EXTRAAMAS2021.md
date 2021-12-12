@@ -3,7 +3,7 @@ title: "Towards Explainable Recommendations of Resource Allocation Mechanisms in
 collection: publications
 permalink: /publication/EXTRAAMAS2021
 excerpt: ' '
-date: 2015-10-01
+date: 2021-05-01
 venue: '3rd International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2021)'
 paperurl: ' '
 citation: 'Daoud, Alaa, et al. &quot;Towards Explainable Recommendations of Resource Allocation Mechanisms in On-Demand Transport Fleets.&quot; <i>3rd International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2021).</i> 2021.'

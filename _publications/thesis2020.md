@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/thesis2020
 excerpt: ' '
 date: 2020-12-17
-venue: ''
+venue: ' '
 paperurl: ' '
 citation: 'Hiba Alqasir. &quot;Deep Learning for Chairlift Scene Analysis: Boosting Generalization in Multi-Domain
 Context. Signal and Image Processing.&quot; Université de Lyon, 2020. English.'

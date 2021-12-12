@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/VISSAPP2020
 excerpt: ' '
 date: 2020-03-01
-venue: 'International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications.'
+venue: 'International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications'
 paperurl: ' '
 citation: 'Alqasir, Hiba, Damien Muselet, and Christophe Ducottet. &quot;Mask-guided Image Classification with Siamese Networks.&quot; <i>International Conference on Computer Vision Theory and Applications. 2020.</i>.'
 ---
