@@ -17,19 +17,19 @@ Education
 
 Experience
 ======
-* Dec 2020 - Until now
+* Dec 2020 - Until now  
   ATER
 
-* Dec 2017 – Nov 2020
+* Dec 2017 – Nov 2020  
   PhD candidate
 
-* Feb 2018 - April 2020
+* Feb 2018 - Apr 2020  
   Teaching Fellow 
 
-* Mar 2017 – Jul 2017
+* Mar 2017 – Jul 2017  
   Research Intern
 
-* Apr 2016 – Sep 2016
+* Apr 2016 – Sep 2016  
   Research Intern
   
 Skills

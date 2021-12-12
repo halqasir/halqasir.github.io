@@ -2,9 +2,9 @@
 title: "Object-oriented programming (JAVA)"
 collection: teaching
 type: "FISA DE2"
-permalink: /teaching/de2_java_2020
+permalink: /teaching/de2_java_2021
 venue: "Télécom Saint-Étienne."
-date: 2020-09-16
+date: 2021-09-16
 location: " Saint-Étienne, France."
 ---
 

@@ -2,9 +2,9 @@
 title: "Object-oriented programming (C++)"
 collection: teaching
 type: "IPSI 2"
-permalink: /teaching/ipsi2_cpp_2020
+permalink: /teaching/ipsi2_cpp_2021
 venue: "Télécom Saint-Étienne."
-date: 2020-11-09
+date: 2021-11-09
 location: " Saint-Étienne, France."
 ---
 
