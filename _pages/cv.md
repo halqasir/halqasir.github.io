@@ -30,7 +30,7 @@ Experience
 * Dec 2017 – Nov 2020  
   <i>PhD candidate</i>  
   [Université de Lyon](https://universite-lyon.fr/),  [ED SIS](https://edsis.universite-lyon.fr/)  
-  En partenariat avec [Bluecime](https://www.bluecime.com/)
+ In partnership with [Bluecime](https://www.bluecime.com/)
 
 * Feb 2018 - Apr 2020  
   <i>Teaching Fellow</i>  
