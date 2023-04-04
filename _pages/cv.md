@@ -22,7 +22,7 @@ Education
 
 Experience
 ======
-* Dec 2020 - Until now  
+* Dec 2020 - Jul 2022  
   <i>ATER</i>  
   [Université Jean Monnet](https://www.univ-st-etienne.fr),  [Laboratoire Hubert Curien](https://laboratoirehubertcurien.univ-st-Étienne.fr/en/index.html)  
   [Télécom Saint-Étienne Écoles d'ingénieurs](https://www.telecom-st-Étienne.fr/)
