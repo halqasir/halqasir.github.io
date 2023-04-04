@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D in Computer Science, Université de Lyon, ED SIS, 2020.  
 [Thesis](https://www.theses.fr/2020LYSES045)
-* M.S. in Machine Learning and Data Mining, Jean Monnet University and École Nationale Supérieure des Mines 2017.  
+* M.S. in Machine Learning and Data Mining, Jean Monnet University and École Nationale Supérieure des Mines, 2017.  
 [Thesis](http://halqasir.github.io/files/m2_thesis.pdf)
 * B.S. in Information Technology Engineering, Damascus University, 2015.
 
