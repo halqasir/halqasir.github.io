@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hiba ALQASIR"
+title                    : "Chloé Hiba ALQASIR"
 title_separator          : "-"
-name                     : &name "Hiba ALQASIR"
+name                     : &name "Chloé Hiba ALQASIR"
 description              : &description "personal description"
 url                      : https://halqasir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hiba ALQASIR"
+  name             : "Chloé Hiba ALQASIR"
   avatar           : "profile.jpg"
   bio              : "Full-time Stay-at-Home New Mom, PhD"
   location         : "Rouen, France"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+Timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

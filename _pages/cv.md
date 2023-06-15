@@ -15,14 +15,14 @@ Education
 ======
 * Ph.D in Computer Science, Université de Lyon, ED SIS, 2020.  
 [Thesis](https://www.theses.fr/2020LYSES045)
-* M.S. in Machine Learning and Data Mining, Jean Monnet University and École Nationale Supérieure des Mines, 2017.  
+* M.S. in Machine Learning and Data Mining, Jean Monnet University and École Nationale Supérieure des Mines 2017.  
 [Thesis](http://halqasir.github.io/files/m2_thesis.pdf)
 * B.S. in Information Technology Engineering, Damascus University, 2015.
 
 
 Experience
 ======
-* Dec 2020 - Jul 2022  
+* Dec 2020 - Until now  
   <i>ATER</i>  
   [Université Jean Monnet](https://www.univ-st-etienne.fr),  [Laboratoire Hubert Curien](https://laboratoirehubertcurien.univ-st-Étienne.fr/en/index.html)  
   [Télécom Saint-Étienne Écoles d'ingénieurs](https://www.telecom-st-Étienne.fr/)
@@ -30,7 +30,7 @@ Experience
 * Dec 2017 – Nov 2020  
   <i>PhD candidate</i>  
   [Université de Lyon](https://universite-lyon.fr/),  [ED SIS](https://edsis.universite-lyon.fr/)  
- In partnership with [Bluecime](https://www.bluecime.com/)
+  En partenariat avec [Bluecime](https://www.bluecime.com/)
 
 * Feb 2018 - Apr 2020  
   <i>Teaching Fellow</i>  

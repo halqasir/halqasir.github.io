@@ -6,7 +6,7 @@ excerpt: ' '
 date: 2020-02-10
 venue: 'International Conference on Advanced Concepts for Intelligent Vision Systems'
 paperurl: ' '
-citation: 'Alqasir, Hiba, Damien Muselet, and Christophe Ducottet.  &quot;Region proposal oriented approach for domain adaptive object detection. &quot; <i>International Conference on Advanced Concepts for Intelligent Vision Systems.</i> Springer, Cham, 2020.'
+citation: 'Alqasir Hiba, Damien Muselet, and Christophe Ducottet.  &quot;Region proposal oriented approach for domain adaptive object detection. &quot; <i>International Conference on Advanced Concepts for Intelligent Vision Systems.</i> Springer, Cham, 2020.'
 
 
 ---
