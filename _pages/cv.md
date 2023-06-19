@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my Long CV from [here](http://halqasir.github.io/files/LongCVEN) and my Résumé from [here](http://halqasir.github.io/files/CV).
+You can also download my Long CV from [here](http://halqasir.github.io/files/LongCVEN6.pdf) and my Résumé from [here](http://halqasir.github.io/files/CV.pdf).
 
 Education
 ======
