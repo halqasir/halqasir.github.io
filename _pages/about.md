@@ -20,13 +20,9 @@ Recently, I took on an even more challenging role as a full-time Stay-at-Home Ne
 # Little "first name" update 
 
 You might have known me as **Hiba**, but guess what? I've given my first name an update!
-
 No worries, my old first name isn't going anywhere—it's just getting a new buddy, paying homage to my multicultural background. 
-
 From now on, you can call me by my old first name, **Hiba**, or by my new french addition, **Chloé**.
-
 In official documents you might spot both names hanging out together, side by side. But in our casual chats and friendly exchanges, feel free to use whichever name you prefer or find easier to pronounce.
-
 When it comes to citations and academic references, I'll stick with my old first name to avoid any confusion. Consistency is key in the world of research, after all. 😉
 
 
