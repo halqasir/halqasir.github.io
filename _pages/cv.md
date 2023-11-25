@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my Long CV from [here](http://halqasir.github.io/files/LongCVEN11.pdf) and my Resume from [here](http://halqasir.github.io/files/CV.pdf).
+<iframe src="http://halqasir.github.io/files/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can also download a PDF copy of my Long CV from [here](http://halqasir.github.io/files/LongCVEN11.pdf) and of my Resume from [here](http://halqasir.github.io/files/CV.pdf).
 
 Academic Background
 ======
