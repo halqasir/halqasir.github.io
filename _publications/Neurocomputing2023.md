@@ -15,3 +15,4 @@ The efficiency of deep neural networks is increasing, and so is the amount of an
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011578)
 
 
+Access the article for free until January 13, 2024, via the [Share Link](https://lnkd.in/eg-Ui_-7) . No sign-ups or fees required!
