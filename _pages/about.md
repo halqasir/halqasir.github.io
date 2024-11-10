@@ -12,9 +12,7 @@ I earned my Ph.D. degree from the University of Lyon in 2020 and subsequently se
 
 During my time in academia, I focused my research efforts on cutting-edge areas such as object detection, image classification, domain generalization, and explainable artificial intelligence. Through my research, I was able to develop a deep understanding of these subjects and make meaningful contributions to the advancement of the field.
 
-Recently, I embarked on a rewarding role as a full-time Stay-at-Home New Mom, embracing the joy of motherhood and dedicating myself to my family. 
-
-Now, transitioning back into the professional sphere, I'm currently engaged in a Project Management training course—a step driven by my curiosity and eagerness to expand my career horizons. This training offers an opportunity to broaden my skill set and gain insights into the Project Management domain, which I believe will be invaluable in my professional journey. This new chapter aligns with my passion for strategic planning, problem-solving, and collaborative leadership. I'm excited to immerse myself in this training, welcoming fresh insights that will complement my existing expertise and be readily applicable to future pursuits.
+Now, I am focused on applying my research and technical skills to create impactful AI solutions, combining rigorous scientific approaches with practical applications to solve complex challenges.
 
 *****************
 
