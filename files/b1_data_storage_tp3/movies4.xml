@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <Title>Cruella</Title>
+    <Year>2021</Year>
+    <Genre>Comedy</Genre>
+    <Genre>Crime</Genre>
+    <Genre>Drama</Genre>
+    <Director firstname="Craig" lastname="Gillespie"/>
+    <Actors>Emma Stone</Actors>
+    <Actors>Emma Thompson</Actors>
+    <Actors>Joel Fry</Actors>
+  </row>
+  <row>
+    <Title>Cast Away</Title>
+    <Year>2000</Year>
+    <Genre>Adventure</Genre>
+    <Genre>Drama</Genre>
+    <Director firstname="Robert" lastname="Zemeckis"/>
+    <Actors>Tom Hanks</Actors>
+    <Actors>Helen Hunt</Actors>
+    <Actors>Lari White</Actors>
+  <row>
+    <Title>Joker</Title>
+    <Year>2019</Year>
+    <Genre>Crime</Genre>
+    <Genre>Drame</Genre>
+    <Director firstname="Todd" lastname="Phillips"/>
+    <Actors>Joaquin Phoenix</Actors>
+    <Actors>Robert De Niro</Actors>
+    <Actors>Zazie Beetz</Actors>
+  </row>
+</root>
+
+
