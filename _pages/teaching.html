@@ -7,6 +7,43 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<p class="teaching-intro">
+My teaching activities cover computer science, databases, software engineering, artificial intelligence, machine learning, cybersecurity, and data visualization across engineering, bachelor, and master programs.
+</p>
+
+{% assign groups = "insa|INSA Hauts-de-France,edn|École du Numérique,telecom|Télécom Saint-Étienne" | split: "," %}
+
+{% for group in groups %}
+  {% assign parts = group | split: "|" %}
+  {% assign group_id = parts[0] %}
+  {% assign group_title = parts[1] %}
+
+  <h2 class="teaching-section-title">{{ group_title }}</h2>
+
+  <div class="teaching-grid">
+    {% assign courses = site.teaching | where: "institution_group", group_id | sort: "date" | reverse %}
+    {% for course in courses %}
+      <article class="teaching-card">
+        <h3>
+          <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
+        </h3>
+
+        <p class="teaching-meta">
+          {{ course.type }}{% if course.year %} · {{ course.year }}{% endif %}
+        </p>
+
+        {% if course.excerpt %}
+          <p class="teaching-excerpt">{{ course.excerpt }}</p>
+        {% endif %}
+
+        {% if course.topics %}
+          <div class="teaching-tags">
+            {% for topic in course.topics %}
+              <span>{{ topic }}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
 {% endfor %}

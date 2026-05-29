@@ -5,32 +5,46 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
+<div class="pub-intro">
+  <p>
+    This page lists my scientific publications in machine learning, computer vision,
+    domain adaptation, and related topics.
+    A complete and regularly updated list is available on my
+    <a class="pub-link" href="https://scholar.google.com/citations?user=uBVFMUEAAAAJ&hl">
+      Google Scholar</a> page.
+  </p>
+</div>
+
+<div class="pub-list">
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% for pub in pubs %}
+  <article class="pub-card">
+    <div class="pub-year">
+      {{ pub.date | date: "%Y" }}
+    </div>
+
+    <div class="pub-content">
+      <h3 class="pub-title">
+        <a href="{{ pub.url | relative_url }}">{{ pub.title }}</a>
+      </h3>
+
+      {% if pub.venue %}
+        <p class="pub-venue">{{ pub.venue }}</p>
       {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
 
+      {% if pub.excerpt %}
+        <p class="pub-excerpt">{{ pub.excerpt }}</p>
+      {% endif %}
 
-
+      <div class="pub-links">
+        <a href="{{ pub.url | relative_url }}">Details</a>
+        {% if pub.paperurl %}
+          <a href="{{ pub.paperurl }}">PDF</a>
+        {% endif %}
+      </div>
+    </div>
+  </article>
+{% endfor %}
+</div>

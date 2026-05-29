@@ -1,11 +1,11 @@
 ---
 title: "Deep Learning for Chairlift Scene Analysis: Boosting Generalization in Multi-Domain Context"
 collection: publications
-permalink: /publication/PhDThesis2020
+permalink: /publication/2020PhDThesis
 excerpt: ' '
 date: 2020-12-17
 venue: 'HAL theses'
-paperurl: ' '
+paperurl: 'https://theses.hal.science/tel-03324255'
 citation: 'Hiba Alqasir. &quot;Deep Learning for Chairlift Scene Analysis: Boosting Generalization in Multi-Domain
 Context. Signal and Image Processing.&quot; Université de Lyon, 2020. English.'
 ---
@@ -23,7 +23,7 @@ Keywords:
 Deep learning . Chairlift safety . Generalization . Multi-domain . Object deletion . Image classification . Domain adaptation . Siamese Networks .
 
 
-This thesis presents our work on chairlift safety using deep learning techniques as part of \textsc{Mivao} project, which aims to develop a computer vision system that acquires images of the chairlift boarding station, analyzes the crucial elements, and detects dangerous situations. 
+This thesis presents our work on chairlift safety using deep learning techniques as part of Mivao project, which aims to develop a computer vision system that acquires images of the chairlift boarding station, analyzes the crucial elements, and detects dangerous situations. 
 In this scenario, different chairlifts spread over different ski resorts, with a high diversity of acquisition conditions and geometries; thus, each chairlift is considered a domain. When the system is installed for a new chairlift, the objective is to perform an accurate and reliable scene analysis, given the lack of labeled data on this new domain (chairlift).
 
 In this context, we mainly concentrate on the chairlift safety bar and propose to classify each image into two categories, depending on whether the safety bar is closed (safe) or open (unsafe). Thus, it is an image classification problem with three specific features: (i) the image category depends on a small detail (the safety bar) in a cluttered background, (ii) manual annotations are not easy to obtain, (iii) a classifier trained on some chairlifts should provide good results on a new one (generalization). To guide the classifier towards the important regions of the images, we have proposed two solutions: object detection and Siamese networks. Furthermore, we analyzed the generalization property of these two approaches. 
@@ -34,8 +34,5 @@ The second solution we have proposed to guide the classification model is to ins
 
 Our solutions are motivated by the need to minimize human annotation efforts while improving the accuracy of the chairlift safety problem.  However, these contributions are not necessarily limited to this specific application context, and they may be applied to other problems in a multi-domain context.
 
-
-
-[Download thesis here](https://theses.hal.science/tel-03324255)
 
 
