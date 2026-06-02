@@ -34,9 +34,7 @@
 }
 
 .teaching-card:hover,
-.pub-card:hover,
-.cv-card:hover,
-.language-card:hover {
+.pub-card:hover {
   transform: translateY(-2px);
   box-shadow: $surface-shadow-hover;
 }
