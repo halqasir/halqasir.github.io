@@ -1,7 +1,7 @@
 ---
 title: "Digital Predistortion of D-Band Power Amplifiers Using AI-Based Nonlinearity Compensation"
 collection: publications
-permalink: /publication/2025MECOM
+permalink: /publications/2025MECOM
 excerpt: ' '
 date: 2025-11-04
 venue: 'IEEE Middle East Conference on Communications and Networking (MECOM),'

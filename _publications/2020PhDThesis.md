@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning for Chairlift Scene Analysis: Boosting Generalization in Multi-Domain Context"
 collection: publications
-permalink: /publication/2020PhDThesis
+permalink: /publications/2020PhDThesis
 excerpt: ' '
 date: 2020-12-17
 venue: 'HAL theses'

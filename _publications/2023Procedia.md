@@ -1,7 +1,7 @@
 ---
 title: "Communication-wise Comparison of the Online Resource Allocation Methods in CAV Fleets"
 collection: publications
-permalink: /publication/2023Procedia
+permalink: /publications/2023Procedia
 excerpt: ' '
 date: 2023-01-01
 venue: 'Procedia Computer Science'

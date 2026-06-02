@@ -1,7 +1,7 @@
 ---
 title: "Introducing Shape Priors in Siamese Networks for Image Classification"
 collection: publications
-permalink: /publication/2023Neurocomputing
+permalink: /publications/2023Neurocomputing
 excerpt: ' '
 date: 2023-11-17
 venue: 'Neurocomputing'

@@ -1,7 +1,7 @@
 ---
 title: "Double adaptation de domaine pour la détection d'objets."
 collection: publications
-permalink: /publication/2020RJCIA
+permalink: /publications/2020RJCIA
 excerpt: ""
 date: 2020-10-12
 venue: "Conférence Nationale d'Intelligence Artificielle"

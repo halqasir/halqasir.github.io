@@ -1,7 +1,7 @@
 ---
 title: "Towards Explainable Recommendations of Resource Allocation Mechanisms in On-Demand Transport Fleets."
 collection: publications
-permalink: /publication/2021EXTRAAMAS
+permalink: /publications/2021EXTRAAMAS
 excerpt: ' '
 date: 2021-05-01
 venue: '3rd International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2021)'
