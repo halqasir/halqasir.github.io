@@ -1,0 +1,243 @@
+// =====================================================
+// Shared components — teaching, publications, CV
+// Theme-aware for Minimal Mistakes / AcademicPages
+// =====================================================
+
+// Intro panels
+.teaching-intro,
+.pub-intro,
+.cv-intro {
+  padding: 1.3rem 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: 16px;
+  background: linear-gradient(135deg, $surface-gradient-start, $surface-gradient-end);
+  border: 1px solid $surface-border;
+  color: $surface-text;
+}
+
+.pub-intro p {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+// Cards
+.teaching-card,
+.pub-card,
+.cv-card,
+.language-card {
+  background: $surface-background;
+  border: 1px solid $surface-border;
+  border-radius: 14px;
+  box-shadow: $surface-shadow-soft;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.teaching-card:hover,
+.pub-card:hover,
+.cv-card:hover,
+.language-card:hover {
+  transform: translateY(-2px);
+  box-shadow: $surface-shadow-hover;
+}
+
+.teaching-card,
+.cv-card,
+.language-card {
+  padding: 1rem;
+}
+
+// Grids
+.teaching-grid,
+.pub-list,
+.cv-grid,
+.language-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.teaching-grid {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  margin-bottom: 2rem;
+}
+
+.cv-grid,
+.language-grid {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+// Section titles
+.teaching-section-title {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid $surface-border;
+}
+
+// Card titles
+.teaching-card h3,
+.pub-title {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.pub-title a {
+  text-decoration: none;
+}
+
+// Muted texts
+.teaching-meta,
+.pub-venue,
+.pub-excerpt,
+.language-card p {
+  color: $surface-text-muted;
+}
+
+// Pills / tags / action links
+.teaching-tags span,
+.pub-links a,
+.cv-actions a {
+  display: inline-block;
+  border-radius: 999px;
+  background: $tag-background;
+  color: $tag-color;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.teaching-tags span {
+  font-size: 0.75rem;
+  padding: 0.15rem 0.45rem;
+  margin: 0.1rem;
+}
+
+.pub-links a,
+.cv-actions a {
+  font-size: 0.78rem;
+  padding: 0.25rem 0.6rem;
+  margin-right: 0.55rem;
+}
+
+.pub-links a:hover,
+.cv-actions a:hover {
+  text-decoration: none;
+  background: $surface-panel-background;
+}
+
+.pub-link {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.pub-link:hover {
+  text-decoration: underline;
+}
+
+// =====================================================
+// Teaching
+// =====================================================
+
+.teaching-meta {
+  font-size: 0.85rem;
+  margin-bottom: 0.6rem;
+}
+
+.teaching-excerpt {
+  font-size: 0.9rem;
+  margin-bottom: 0.8rem;
+}
+
+// =====================================================
+// Publications
+// =====================================================
+
+.pub-card {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 1rem;
+  padding: 1.15rem 1.25rem;
+}
+
+.pub-year {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: $surface-text;
+  padding-top: 0.2rem;
+}
+
+.pub-venue {
+  margin: 0 0 0.55rem 0;
+  font-size: 0.88rem;
+  font-style: italic;
+}
+
+.pub-excerpt {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+// =====================================================
+// CV
+// =====================================================
+
+.cv-pdf iframe {
+  width: 100%;
+  height: 620px;
+  border: 1px solid $surface-border;
+  border-radius: 14px;
+  margin-bottom: 2rem;
+}
+
+.cv-timeline {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.cv-timeline p,
+.cv-grid p {
+  margin: 0.25rem 0 0 0;
+}
+
+// =====================================================
+// Languages
+// =====================================================
+
+.language-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.6rem;
+}
+
+.language-header span {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: $surface-text;
+}
+
+.language-bar {
+  height: 8px;
+  background: $surface-panel-background;
+  border-radius: 999px;
+  overflow: hidden;
+  margin-bottom: 0.7rem;
+}
+
+.language-level {
+  height: 100%;
+  border-radius: 999px;
+  background: $accent-color;
+}
+
+// =====================================================
+// Responsive
+// =====================================================
+
+@media (max-width: 600px) {
+  .pub-card {
+    grid-template-columns: 1fr;
+  }
+}

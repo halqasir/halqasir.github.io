@@ -14,7 +14,8 @@
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
+    "custom/_custom_variables",
+    "custom/_custom_components",
     "include/mixins",
     "vendor/susy/susy",
 

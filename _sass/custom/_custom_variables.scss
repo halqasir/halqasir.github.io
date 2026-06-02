@@ -1,0 +1,23 @@
+// Theme-aware custom variables for site components
+$surface-background: var(--global-bg-color);
+$surface-panel-background: color-mix(in srgb, var(--global-bg-color) 88%, var(--global-text-color) 12%);
+$surface-gradient-start: color-mix(in srgb, var(--global-bg-color) 94%, var(--global-link-color) 6%);
+$surface-gradient-end: color-mix(in srgb, var(--global-bg-color) 88%, var(--global-link-color) 12%);
+
+$surface-border: color-mix(in srgb, var(--global-border-color) 75%, var(--global-text-color) 25%);
+$surface-border-strong: var(--global-border-color);
+
+$surface-text: var(--global-text-color);
+$surface-text-muted: var(--global-text-color-light);
+
+$accent-color: var(--global-link-color);
+$button-primary-background: var(--global-link-color);
+$button-primary-color: var(--global-bg-color);
+$button-primary-hover: var(--global-link-color-hover);
+$button-primary-focus: var(--global-link-color-hover);
+
+$tag-background: color-mix(in srgb, var(--global-bg-color) 84%, var(--global-link-color) 16%);
+$tag-color: var(--global-text-color);
+
+$surface-shadow-soft: 0 2px 8px rgba(0, 0, 0, 0.06);
+$surface-shadow-hover: 0 12px 28px rgba(0, 0, 0, 0.12);
